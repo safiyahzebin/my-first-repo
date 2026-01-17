@@ -36,3 +36,25 @@ nav li a {
     font-size: x-small;
     padding: 10px 15px;
 }
+/* this is my navigation bar css */
+
+.hero-content{
+    background-image: url(./B13-A01-Knowledge-Vault/assets/hero-bg.png);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    text-align: center;padding: 0 20px;
+    
+}
+
+.badge{
+    background: whitesmoke;
+    border-radius: 20px;
+    border: 1px;
+    margin-bottom: 20px;
+    border: 1px;
+    padding: 5px, 15px;
+
+}
