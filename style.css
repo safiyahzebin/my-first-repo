@@ -45,16 +45,66 @@ nav li a {
     height: 100vh;
     width: 100%;
     justify-content: center;
-    text-align: center;padding: 0 20px;
+    text-align: center;
+   
     
 }
 
-.badge{
+.badge {
     background: whitesmoke;
     border-radius: 20px;
     border: 1px;
     margin-bottom: 20px;
     border: 1px;
     padding: 5px, 15px;
+    display: block;
 
 }
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: aliceblue;
+    font-family:  sans-serif;
+
+}
+.highlight {
+    color: green;
+}
+
+ p {
+    
+    color: azure;
+    margin-bottom: 35px;
+    font-size: 1rem;
+    line-height: 1.7;
+    
+
+
+}
+
+
+
+.button-green {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-weight: 200;
+    padding: 15px 15px;
+    font-size: 12px;
+    
+
+}
+
+.button-white {
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 15px 15px ;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 10px;
+}
+
