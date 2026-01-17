@@ -106,5 +106,23 @@ h1 {
     border: 1px solid white;
     border-radius: 5px;
     font-size: 10px;
+
+}
+/* hero image css ended */
+
+
+
+.note-p {
+    color: #000;
 }
 
+.note-h {
+    color: #000;
+    font-size: 45px;
+}
+
+.notes {
+    display: inline-block;
+    text-align: center;
+    margin-left: 380px;
+}
