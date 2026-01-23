@@ -36,6 +36,7 @@ nav li a {
     font-size: x-small;
     padding: 10px 15px;
     color: white;
+
 }
 /* this is my navigation bar css */
 
@@ -240,4 +241,43 @@ h6 {
 h2{
     font-family:  sans-serif;
     font-size: 40px;
+}
+
+/* footer css start */
+
+.kv-footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: auto;
+    height: 420px;
+    margin-top: 80px;
+    margin-bottom: 1px;
+}
+
+.social-p{
+    color: white;
+}
+
+.logo-footer{
+    height: 70px;
+    width: 120px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.social-container{
+    margin-top: 100px;
+    margin-right: 150px;
+
+}
+
+.social-icons{
+    padding-left: 30px;
+}
+.footer-bottom{
+    background-color: #000;
+    text-align: center;
+    height: 70px;
+    margin-top: 0px;
 }
